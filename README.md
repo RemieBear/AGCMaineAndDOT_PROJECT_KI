@@ -8,8 +8,10 @@ Additionally, we supported these insights by clustering data as well. We decided
 
 
 ## Repository Structure
-- `project_un_supervised_ml.py` — Python analysis 
-- `Career_Drive_Project_Data_Sources.xlsx` — Excel Analysis (NOT THE DATA USED FOR PYTHON ANALYSIS)
+- `project_un_supervised_ml.py` — Python analysis
+- `Career Drive Project Data Sources.xlsx` — Data for Python Analysis
+- `Excel_Analysis_Of_Career_Drive_Project_Data.xlsx` — Excel Analysis (NOT THE DATA USED FOR PYTHON ANALYSIS)\
+- `RAW_DATA.xlsx` — Raw data from AGC Maine and DOT
 
 ## Requirements
 Python 3
@@ -27,7 +29,7 @@ The following Libraries:
 
 ## How to Run
 0. Ensure all dependencies are installed properly
-1. Place the Excel file, the one labeled for the python file, in the same directory as the python file
+1. Place the Excel file, in the same directory as the python file
 2. Run: python project_un_supervised_ml.py
 
 ## Data
