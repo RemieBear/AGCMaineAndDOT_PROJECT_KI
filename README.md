@@ -3,7 +3,9 @@
 **Authors:** Kayla Ramirez and Ibrahim Saleem Syed
 
 ## Overview
-[Your current description paragraph goes here]
+For this project, we decided to utilize the data provided to us by AGC Maine (Associated General Contractors of Maine) entitled “Career Drive Project Data Sources,” creating classifications with the data to provide a basis for future work done on the project. In doing so, we recognized patterns, discrepancies, and meaningful insights presented in the data. Specifically addressing anything that may prevent someone interested in construction from joining the industry, and what is preventing growth within the industry for current workers and/or employers. 
+Additionally, we supported these insights by clustering data as well. We decided to perform the data analysis this way as we believed it would give us the most insight into the data, since we found there wasn’t much numerical data present in this specific dataset. 
+
 
 ## Repository Structure
 - `project_un_supervised_ml.py` — Python analysis 
